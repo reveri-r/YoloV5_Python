@@ -1,0 +1,16 @@
+seaborn
+matplotlib
+tqdm
+pyyaml
+torchvision
+psutil
+Pillow
+requests
+pandas
+torch
+IPython
+opencv-python
+numpy
+geopy
+firebase
+firebase-admin
