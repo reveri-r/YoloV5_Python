@@ -1,0 +1,10 @@
+1- "Paket Kurma.bat" isimli dosyayı çalıştırıp paketleri kurunuz.
+2- "Baslat.bat" dosyası ile yapay zekayı aktif hale getiriniz.
+3- CMD ekranını kapatarak yapay zekayı kapatabilirsiniz.
+4- İnternet bağlantısı gereklidir.
+
+Not: Python versionu - 3.9.10
+Not2: Eksik paket varsa: pip install paket_adi ile paketi yükleyiniz.
+
+Alternatif çalıştırma şekli:
+	- Goruntu_Isleme_Kodlari klasorune girip python main.py kodunu çalıştırınız.
